@@ -1,12 +1,6 @@
 # odin-recipes
 
+ICI, nous allons apprednre à cuisiner comme des chefs.
 
-
-Ici le sgars on va apprendre à faire de la nourriure super bonne avec Arnaud!
-
-
-
-
-
-tchao
+Tchao
 
